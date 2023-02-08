@@ -186,7 +186,7 @@ header .fa-bars {
   min-height: 100vh;
 }
 
-.facility .box-container {
+.facility.box-container {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
