@@ -1,18 +1,13 @@
-##Hospital-website
 
-## Here's features included in this project
+# Hospital Website
 
-- Home Page
-- Booking Page
-- Show Differnt Types of Pakage 
-- Show Servies of Tour Providing
-- Gallery Page
-- Review Page
-- Contact Page
-- Login and Register Page
-- Sliding Search Bar  
-- Go To Any Page Functionality
-
+## features included:-
+- Home Page: The landing page for the website.
+- About Page: Provides information about the hospital.
+- Facilities Gallery: Showcases the hospital's facilities, including tour services.
+- Reviews Page: Displays reviews from patients and doctors.
+- Contact Page: Includes a form for scheduling appointments.
+- Blog (Posts): Features a blog section for sharing articles and updates.
 
 
 ## Technologies Used:
@@ -21,3 +16,14 @@
 2. CSS
 3. JavaScript
 
+
+## Setup and Usage
+
+1. Clone the repository to your local machine.
+2. Open the ```index.html``` file in a web browser to launch the application.
+3. Use the form to add new tasks, and the provided buttons to edit, delete, 
+   complete, or sort and filter the task list.
+   
+## URL
+
+URL:  https://anjali-kushwaha.github.io/hospital-website/
